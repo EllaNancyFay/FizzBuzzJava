@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fizzbuzzTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2014-11-18T13:25:44" hostname="Ellas-MacBook-Air.local" time="0.0060">
+  <properties/>
+  <testcase name="isDivisibleByThree" classname="fizzbuzzTest" time="0.0010"/>
+  <testcase name="itReturnsTheNumber" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="itSaysFizzWhenDivisibleByThree" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="itSaysFizzBuzzWhenDivisibleByFifteen" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="isDivisibleByFive" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="isNotDivisibleByFive" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="itSaysBuzzWhenDivisibleByFive" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="isNotDivisibleByFifteen" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="isNotDivisibleByThree" classname="fizzbuzzTest" time="0.0"/>
+  <testcase name="isDivisibleByFifteen" classname="fizzbuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
